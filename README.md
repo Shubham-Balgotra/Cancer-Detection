@@ -1,4 +1,5 @@
-# Cancer-Diagnosis
+# <h1 align= center>Cancer-Diagnosis</h1>
+![cover image](cancer_cover.jpg)
 ## Description:
 <p> Source: https://www.kaggle.com/c/msk-redefining-cancer-treatment/ </p>
 <p> Data: Memorial Sloan Kettering Cancer Center (MSKCC)</p>
