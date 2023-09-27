@@ -1,6 +1,6 @@
 # <h1 align= center>Cancer-Diagnosis</h1>
 ![cover image](cancer_cover.jpg)
-## Description:
+## *Description:
 <p> Source: https://www.kaggle.com/c/msk-redefining-cancer-treatment/ </p>
 <p> Data: Memorial Sloan Kettering Cancer Center (MSKCC)</p>
 <p> Download training_variants.zip and training_text.zip from Kaggle.</p> 
