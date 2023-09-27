@@ -62,3 +62,79 @@ Source: https://www.kaggle.com/c/msk-redefining-cancer-treatment#evaluation
 Metric(s): 
 * Multi class log-loss 
 * Confusion matrix 
+
+## Result/Outcome:
+### Predicted Class
+Predicted Class: 4
+69.27% sure that the
+
+### Predicted Class Probabilities
+Predicted Class Probabilities: [[0.06, 0.0778, 0.0207, 0.6927, 0.0457, 0.0384, 0.0549, 0.0055, 0.0043]]
+
+### Actual Class
+Actual Class: 4
+
+---
+
+### Text Features Present in Test Data Point
+- Text feature [identified] present in test data point [True]
+- Text feature [well] present in test data point [True]
+- Text feature [observed] present in test data point [True]
+- Text feature [additional] present in test data point [True]
+- Text feature [recently] present in test data point [True]
+- Text feature [previously] present in test data point [True]
+- Text feature [using] present in test data point [True]
+- Text feature [mutation] present in test data point [True]
+- Text feature [found] present in test data point [True]
+- Text feature [one] present in test data point [True]
+- Text feature [studies] present in test data point [True]
+- Text feature [also] present in test data point [True]
+- Text feature [however] present in test data point [True]
+- Text feature [10] present in test data point [True]
+- Text feature [compared] present in test data point [True]
+- Text feature [table] present in test data point [True]
+- Text feature [showed] present in test data point [True]
+- Text feature [three] present in test data point [True]
+- Text feature [may] present in test data point [True]
+- Text feature [used] present in test data point [True]
+- Text feature [respectively] present in test data point [True]
+- Text feature [presence] present in test data point [True]
+- Text feature [data] present in test data point [True]
+- Text feature [addition] present in test data point [True]
+- Text feature [analysis] present in test data point [True]
+- Text feature [expected] present in test data point [True]
+- Text feature [independent] present in test data point [True]
+- Text feature [12] present in test data point [True]
+- Text feature [mutations] present in test data point [True]
+- Text feature [different] present in test data point [True]
+- Text feature [higher] present in test data point [True]
+- Text feature [present] present in test data point [True]
+- Text feature [two] present in test data point [True]
+- Text feature [identify] present in test data point [True]
+- Text feature [including] present in test data point [True]
+- Text feature [known] present in test data point [True]
+- Text feature [15] present in test data point [True]
+- Text feature [confirmed] present in test data point [True]
+- Text feature [identification] present in test data point [True]
+- Text feature [reported] present in test data point [True]
+- Text feature [highly] present in test data point [True]
+- Text feature [cancer] present in test data point [True]
+- Text feature [similar] present in test data point [True]
+- Text feature [clinical] present in test data point [True]
+- Text feature [25] present in test data point [True]
+- Text feature [selected] present in test data point [True]
+- Text feature [small] present in test data point [True]
+- Text feature [obtained] present in test data point [True]
+- Text feature [cell] present in test data point [True]
+- Text feature [confirm] present in test data point [True]
+- Text feature [significant] present in test data point [True]
+- Text feature [discussion] present in test data point [True]
+- Text feature [total] present in test data point [True]
+- Text feature [increased] present in test data point [True]
+- Text feature [16] present in test data point [True]
+- Text feature [1b] present in test data point [True]
+- Text feature [shown] present in test data point [True]
+- Text feature [single] present in test data point [True]
+
+Out of the top 100 features, 58 are present in the query point.
+
